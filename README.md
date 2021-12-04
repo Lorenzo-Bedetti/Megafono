@@ -1,2 +1,2 @@
-# proj1_megafono
+# Megafono
  interaction design_proj1
