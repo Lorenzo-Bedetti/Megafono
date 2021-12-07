@@ -53,30 +53,28 @@ body {
 		font-size: 12px;
 		font-family: 'Roboto';
 		text-align: center;
-		opacity: 50%;
 		transition: 0.5s;
 	}
 	.indice a:hover {
 	/*	text-decoration: overline;*/
-		opacity: 100%;
 		transition: 0.5s;
 	}
 
 	.indice {
-		opacity: 100%;
+		opacity: 30%;
 		padding: 10px 30px;
 		margin-right: 100px;
 		float: right;
+		border: 1px solid grey;
 		border-radius: 30px;
 		box-shadow: 1px 1px 5px grey;
 		cursor: pointer;
-		transition: 0.5s;	
+		transition: 0.2s;	
 	}
 	.indice:hover {
-	/*	background-color: black;*/
 		box-shadow: 2px 2px 20px grey;
 		opacity: 100%;
-		transition: 0.5s;
+		transition: 0.2s;
 }
 
 
